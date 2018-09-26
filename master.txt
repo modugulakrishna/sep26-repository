@@ -1,2 +1,2 @@
 sep 26th first repository and today complete total git commands and worlflow
-and branch
+and branch and do some more projects with total git commands 
